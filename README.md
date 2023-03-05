@@ -36,5 +36,6 @@ Por ultimo  el modelo elegido  es el de Boosting . El modelo de Boosting es un a
 En términos simples, el modelo de Boosting funciona construyendo un conjunto de modelos de aprendizaje secuenciales débiles, donde cada modelo se centra en los errores del modelo anterior. Es decir, se le da mayor peso a los puntos de datos que se clasifican incorrectamente en el modelo anterior, para que en el siguiente modelo tengan mayor probabilidad de ser clasificados correctamente.
 
 CONCL
+
 Despues de realizar los diferentes modelos el mejor modelo que se acopla a los datos es el de los vecinos mas cercanos ya que en el valor de la matriz de comfusion  es el que mas que acopla al  modelo y menos dispersion tiene.
 
